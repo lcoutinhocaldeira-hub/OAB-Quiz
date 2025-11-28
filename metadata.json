@@ -1,0 +1,5 @@
+{
+  "name": "OAB Quiz AI",
+  "description": "An intelligent web application that generates practice questions for the Brazilian Bar Association (OAB) exam using AI. Users can select legal subjects, specify the number of questions, and take a simulated quiz with detailed explanations for each answer.",
+  "requestFramePermissions": []
+}
